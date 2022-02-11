@@ -1,4 +1,4 @@
- <h2> Hey there! 👋 I'm Sudhanshu Sharma.</h2>
+ <h2> Hey there! 👋 I'm Jaskaran Singh.</h2>
  <br/>
  
  <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
@@ -38,7 +38,7 @@
 <br/>
  <div>
 <h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/Sudhanshu894">
+<a href="https://github.com/jaskaranpr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu894&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu894&theme=buefy&layout=compact" />
 </a>
@@ -49,12 +49,12 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sudhanshu894/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sidharts894@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sudhanshu%20Sharma-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jaskaranpr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jaskaran%20singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jaskaransingh98033@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-jaskaran%20singh-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
-⭐️ From [Sudhanshu Sharma](https://github.com/Sudhanshu894)
+⭐️ From [Jaskaran Singh](https://github.com/jaskaranpr)
 
 
