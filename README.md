@@ -1,4 +1,4 @@
-<h2> Hey there! :wave: I'm Sudhanshu Sharma.</h2>
+<h2> Hey there! :wave: I'm Jaskaran Singh.</h2>
  <br/>
  <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 <h3> &nbsp;About Me </h3>
@@ -42,7 +42,7 @@
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jaskaranpr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jaskaransingh98033@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sudhanshu%20Sharma-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:jaskaransingh98033@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Jaskaran%20Singh-blue?style=flat-square&logo=gmail"></a>
 </p>
 #### &nbsp;&nbsp; Thank you for visiting my profile.
-:star:️ From [Sudhanshu Sharma](https://github.com/Sudhanshu894)
+:star:️ From [Jaskaran Singh](https://github.com/jaskaranpr)
