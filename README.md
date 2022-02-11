@@ -31,9 +31,9 @@
 <br/>
  <div>
 <h3>:gear: GitHub Analytics</h3>
-<a href="https://github.com/Sudhanshu894">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu894&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu894&theme=buefy&layout=compact" />
+<a href="https://github.com/jaskaranpr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaskaranpr&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaranpr&theme=buefy&layout=compact" />
 </a>
  </div>
 <br/>
@@ -41,8 +41,8 @@
 &nbsp;&nbsp;<a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sudhanshu894/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sidharts894@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sudhanshu%20Sharma-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jaskaranpr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jaskaransingh98033@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sudhanshu%20Sharma-blue?style=flat-square&logo=gmail"></a>
 </p>
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 :star:️ From [Sudhanshu Sharma](https://github.com/Sudhanshu894)
