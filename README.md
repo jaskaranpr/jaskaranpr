@@ -39,8 +39,8 @@
  <div>
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/jaskaranpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu894&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu894&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaskaranpr&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaranpr&theme=buefy&layout=compact" />
 </a>
  </div>
 <br/>
